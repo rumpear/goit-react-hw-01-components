@@ -1,0 +1,15 @@
+.statistics {
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  margin: 50px auto;
+  background-color: rgba(151, 151, 151, 0.233);
+  border-radius: 5px;
+  overflow: hidden;
+}
+.title {
+  font-size: 30px;
+  font-weight: 500;
+  padding: 15px;
+}
